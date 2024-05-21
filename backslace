@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main ()
+{
+    printf("rajendra rauta \\n  rahul rauta \n raja \a rauta \t");
+
+return 0;
+}

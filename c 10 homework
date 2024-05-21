@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int main ()
+{
+    int subject;
+    
+    printf("which subject did you pass "
+    
+    "1.science & math \n"
+    "2.science \n"
+    "3.math \n");
+   
+    scanf("%d",&subject);
+
+    if (subject==1)
+    { printf ("congrat you have own 45");
+
+    }
+
+
+if(subject==2)
+
+{
+    printf("congrats you have own 15 ");
+}
+
+if (subject==3)
+
+{
+
+    printf ("congrats you have own 15");
+
+}
+    return 0;
+
+}

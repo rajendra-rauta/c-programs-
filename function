@@ -1,0 +1,3 @@
+A function is declared to tell the compiler about its existence.
+A function is defined to get some task done. (It means when we define function we write whole code of that function. In this actual implementation of function is done.)
+A function is called in order to be used

@@ -1,0 +1,45 @@
+#include <stdio.h>
+int main()
+{
+
+    int a, day, result, sunday, monday, tuesday, wednesday, thursday, friday, saturday;
+    printf("enter a day 1 for sunday ,2 for monday ,3 for tuesday ,4 for wednesday ,5 for thursaday ,6 for friday,7 for saturday......: ");
+
+    scanf("%d", &a);
+
+
+    switch (a)
+    {
+    case '1':
+
+     sunday;
+
+        break;
+    case '2':
+        result = monday;
+        break;
+
+    case '3':
+        result = tuesday;
+        break;
+    case '4':
+        result = wednesday;
+        break;
+
+    case '5':
+        result = thursday;
+        break;
+
+    case '6':
+        result = friday;
+        break;
+
+    case '7':
+        result = saturday;
+        break;
+
+    default:
+        printf("you enter a invalid number...........break");
+    }
+    return 0;
+}
