@@ -38,8 +38,6 @@ int main()
             second = first * inchestofoot;
             printf("%f inches is equal to %f foot\n", first, second);
             break;
-
-            
         case '3':
             printf("enter quentity in terms of first unit\n");
             scanf("%f", &first);
