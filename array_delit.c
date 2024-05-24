@@ -17,8 +17,7 @@ int main()
     /* Input element position to delete */
     printf("Enter the element position to delete : ");
     scanf("%d", &pos);
-
-
+    
     /* Invalid delete position */
     if(pos < 0 || pos > size)
     {
