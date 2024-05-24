@@ -20,8 +20,6 @@ int main()
         switch (input)
 
         {
-            
-
         case 'q':
 
             printf("queating the program.....");
