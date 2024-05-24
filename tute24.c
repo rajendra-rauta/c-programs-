@@ -26,7 +26,6 @@ int main()
             goto end;
             break;
             
-
         case '1':
             printf("enter quentity in terms of first unit\n");
             scanf("%f", &first);
