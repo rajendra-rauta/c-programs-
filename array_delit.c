@@ -34,7 +34,6 @@ int main()
         /* Decrement array size by 1 */
          size--;
     
-
         /* Print array after deletion */
         printf("\nElements of array after delete are : ");
         for(i=0; i<size; i++)
