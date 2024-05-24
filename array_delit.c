@@ -22,7 +22,6 @@ int main()
     {
         printf("Invalid position! Please enter position between 1 to %d", size);
     }
-        
     else
     {
         /* Copy next element value to current element */
