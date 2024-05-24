@@ -32,8 +32,6 @@ int main()
             second = first * kmstomiles;
             printf("%.2f kms is equal to %.2f miles\n\n\n", first, second);
             break;
-            
-
         case '2':
             printf("enter quentity in terms of first unit\n");
             scanf("%f", &first);
