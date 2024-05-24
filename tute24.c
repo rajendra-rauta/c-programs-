@@ -26,6 +26,7 @@ int main()
             printf("queating the program.....");
             goto end;
             break;
+            
 
         case '1':
             printf("enter quentity in terms of first unit\n");
@@ -33,6 +34,7 @@ int main()
             second = first * kmstomiles;
             printf("%.2f kms is equal to %.2f miles\n\n\n", first, second);
             break;
+            
 
         case '2':
             printf("enter quentity in terms of first unit\n");
@@ -41,6 +43,7 @@ int main()
             printf("%f inches is equal to %f foot\n", first, second);
             break;
 
+            
         case '3':
             printf("enter quentity in terms of first unit\n");
             scanf("%f", &first);
