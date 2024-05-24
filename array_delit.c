@@ -13,7 +13,6 @@ int main()
     {
         scanf("%d", &arr[i]);
     }
-
     
     /* Input element position to delete */
     printf("Enter the element position to delete : ");
