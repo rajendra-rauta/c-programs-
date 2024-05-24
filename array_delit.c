@@ -3,6 +3,7 @@ int main()
 {
     int arr[100];
     int i, size, pos;
+    
 
     /* Input size and element in array */
     printf("Enter size of the array : ");
