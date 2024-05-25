@@ -19,5 +19,4 @@ int main()
         printf("%d\t", a[i]);
     }
     return 0;
-    
 }
