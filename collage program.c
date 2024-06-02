@@ -12,8 +12,6 @@
   
  sum=a+b;
 
-  
-
  printf("sum of %d + %d =%d", a ,b ,sum);
   return 0;
  }
