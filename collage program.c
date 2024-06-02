@@ -9,7 +9,6 @@
  printf("enter 2nd number...:");
  scanf("%d",&b);
 
-  
  sum=a+b;
 
  printf("sum of %d + %d =%d", a ,b ,sum);
