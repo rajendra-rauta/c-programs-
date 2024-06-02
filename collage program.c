@@ -8,6 +8,8 @@
 
  printf("enter 2nd number...:");
  scanf("%d",&b);
+
+  
  sum=a+b;
 
 
