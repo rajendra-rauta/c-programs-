@@ -3,7 +3,6 @@
 void main()
 {
     int storage[3][3], i, j;
-
     printf("enter 9 digit integer to 2d array \n");
     for (int i = 0; i < 3; i++)
     {
