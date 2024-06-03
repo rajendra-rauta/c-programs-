@@ -14,6 +14,7 @@ int fact(int number)
 int main()
 
 {
+    
     int num;
     printf("Enter the number which you cheack factorial\n");
     scanf("%d", &num);
