@@ -13,10 +13,11 @@ int main()
         scanf("%d", &a[i]);
         printf("\n");
     }
-    printf("the array element in reverse order \n");
-    for (i = n - 1; i >= 0; i--)
-    {
-        printf("%d\t", a[i]);
-    }
-    return 0;
+
+
+
+
+
+
+    
 }
