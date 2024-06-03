@@ -11,6 +11,7 @@ void main()
         {
             scanf("%d", &storage[i][j]);
         }
+        
     }
     printf("the array element are\n");
     for (int i = 0; i < 3; i++)
