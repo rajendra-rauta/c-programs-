@@ -13,7 +13,6 @@ void main()
         }
         
     }
-    
     printf("the array element are\n");
     for (int i = 0; i < 3; i++)
     {
