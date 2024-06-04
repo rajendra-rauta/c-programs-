@@ -11,6 +11,8 @@ int main()
         for (j = 0; j < 3; j++)
         {
             scanf("%d", &a[i][j]);
+
+            
         }
     }
     printf("enter 9 digit for your 2nd matrix\n");
