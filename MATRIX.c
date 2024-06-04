@@ -16,6 +16,8 @@ int main()
         }
     }
 
+
+    
     
     printf("enter 9 digit for your 2nd matrix\n");
 
