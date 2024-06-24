@@ -9,7 +9,8 @@ void main()
         for (int j = 0; j < 3; j++)
         {
             scanf("%d", &storage[i][j]);
-        }
+        } 
+        
     }
     printf("the array element are\n");
     for (int i = 0; i < 3; i++)
