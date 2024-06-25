@@ -14,6 +14,8 @@ void fib(int n)
 }
 int main()
 {
+
+
     
     int term;
     printf("Enter the number of terms:");
