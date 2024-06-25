@@ -12,7 +12,6 @@ void fib(int n)
         second = next;
     }
 }
-
 int main()
 {
     int term;
