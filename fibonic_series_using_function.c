@@ -13,8 +13,6 @@ void fib(int n)
     }
 }
 
-
-
 int main()
 {
     int term;
