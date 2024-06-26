@@ -15,6 +15,8 @@ int main() {
          ++low;
          continue;
       }  
+
+      
       
 
       // if low is a non-prime number, flag will be 1
