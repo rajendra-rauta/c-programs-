@@ -16,8 +16,7 @@ int main() {
          continue;
       }  
 
-      
-
+   
       // if low is a non-prime number, flag will be 1
       for (i = 2; i <= low / 2; ++i) {
 
