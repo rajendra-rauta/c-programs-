@@ -23,7 +23,9 @@ int main()
     {
         printf("GREAD C");
     }
-    else if (per >= 60)
+    else if (per >= 60)    
+
+      
     {
         printf("GREAD D");
     }
