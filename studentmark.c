@@ -15,7 +15,7 @@ int main()
     {
         printf("GREAD A");
 
-      
+  
     }
     else if (per >= 80)
     {
