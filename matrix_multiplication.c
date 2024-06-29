@@ -12,7 +12,7 @@ int main()
         {
             scanf("%d", &a[i][j]);
         }
-    } 
+    }  
     printf("enter 9 digit for your 2nd matrix\n");   
 
     for (i = 0; i < 3; i++)
