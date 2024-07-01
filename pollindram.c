@@ -2,7 +2,7 @@
 int main()
 {
     int a, b, k, r = 0;
-    printf("Enter  a number ");
+    printf("Enter  a number "); 
     scanf("%d", &a);
 
     k = a;
