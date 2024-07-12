@@ -9,3 +9,8 @@ int main()
     add(a, b); // FUNCTION CALL
 }
 void add(int x, int y)
+{
+    int c;
+    c = x + y;
+    printf("the addition result =%d", c);
+}
